@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_giant",
-    "path": "sprites/spr_giant/spr_giant.yy",
+    "name": "spr_lever",
+    "path": "sprites/spr_lever/spr_lever.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_playerController",
-    "path": "objects/o_playerController/o_playerController.yy",
+    "name": "o_interactable",
+    "path": "objects/o_interactable/o_interactable.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,16 +25,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "interactables",
+    "path": "folders/Objects/interactables.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_giant",
+  "name": "o_lever",
   "tags": [],
   "resourceType": "GMObject",
 }

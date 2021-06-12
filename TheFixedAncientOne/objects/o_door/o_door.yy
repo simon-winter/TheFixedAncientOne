@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obstacles",
-    "path": "folders/Objects/obstacles.yy",
+    "name": "triggerables",
+    "path": "folders/Objects/triggerables.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_door",

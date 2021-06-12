@@ -1,15 +1,15 @@
-// starting control condition
-lock = true;
+event_inherited()
+
+walksp = 3;
 
 // pulling
 reachedDistance = 5;
 pullMaxSpeed = 10;
 partner = o_giant;
 
-// don't edit
-hsp = 0;
-vsp = 0;
-walksp = 3;
 
+// don't edit
 sendBack = false;
 pullInitDist = 0;
+
+throwedMagnitudeOverrite_msSeconds = 300;
