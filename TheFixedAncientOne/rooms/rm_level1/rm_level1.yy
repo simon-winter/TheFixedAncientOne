@@ -311,7 +311,6 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_event","path":"objects/o_event/o_event.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":120.0,"y":48.0,"resourceVersion":"1.0","name":"inst_E5E7351","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_wall2","path":"objects/o_wall2/o_wall2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":16.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_5E74CD87","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_archer","path":"objects/o_archer/o_archer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":352.0,"resourceVersion":"1.0","name":"inst_9FEE2E8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"targetToTrigger","path":"objects/o_interactable/o_interactable.yy",},"objectId":{"name":"o_interactable","path":"objects/o_interactable/o_interactable.yy",},"value":"inst_32BA9912","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"o_lever","path":"objects/o_lever/o_lever.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2208.0,"y":128.0,"resourceVersion":"1.0","name":"inst_3A30E0AE","tags":[],"resourceType":"GMRInstance",},
@@ -1134,7 +1133,6 @@
     {"name":"inst_1E8F7A8","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_3EB65A8D","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_6B59A566","path":"rooms/rm_level1/rm_level1.yy",},
-    {"name":"inst_9FEE2E8","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_32BA9912","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_3A30E0AE","path":"rooms/rm_level1/rm_level1.yy",},
   ],
