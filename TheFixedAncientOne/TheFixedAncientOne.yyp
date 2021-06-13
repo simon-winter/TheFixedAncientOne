@@ -20,9 +20,7 @@
     {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},"order":5,},
     {"id":{"name":"ease_out_quint","path":"scripts/ease_out_quint/ease_out_quint.yy",},"order":29,},
     {"id":{"name":"o_multiTrigger","path":"objects/o_multiTrigger/o_multiTrigger.yy",},"order":1,},
-
     {"id":{"name":"spr_archer","path":"sprites/spr_archer/spr_archer.yy",},"order":15,},
-
     {"id":{"name":"spr_button_1","path":"sprites/spr_button_1/spr_button_1.yy",},"order":13,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":1,},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"order":0,},
@@ -46,10 +44,8 @@
     {"id":{"name":"ease_inout_sine","path":"scripts/ease_inout_sine/ease_inout_sine.yy",},"order":19,},
     {"id":{"name":"string_wrap","path":"scripts/string_wrap/string_wrap.yy",},"order":4,},
     {"id":{"name":"spr_menu_button","path":"sprites/spr_menu_button/spr_menu_button.yy",},"order":0,},
-
     {"id":{"name":"t_forest5","path":"tilesets/t_forest5/t_forest5.yy",},"order":4,},
     {"id":{"name":"Gnomebackrun","path":"sprites/Gnomebackrun/Gnomebackrun.yy",},"order":0,},
-
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},"order":4,},
     {"id":{"name":"o_destroy_1","path":"objects/o_destroy_1/o_destroy_1.yy",},"order":2,},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},"order":1,},
@@ -173,9 +169,7 @@
     {"folderPath":"folders/Objects/Technicals.yy","order":14,"resourceVersion":"1.0","name":"Technicals","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Cutscene/events.yy","order":5,"resourceVersion":"1.0","name":"events","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Cutscene.yy","order":12,"resourceVersion":"1.0","name":"Cutscene","tags":[],"resourceType":"GMFolder",},
-
     {"folderPath":"folders/Sprites/Gnome.yy","order":17,"resourceVersion":"1.0","name":"Gnome","tags":[],"resourceType":"GMFolder",},
-
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
