@@ -135,6 +135,7 @@
     {"id":{"name":"o_textbox","path":"objects/o_textbox/o_textbox.yy",},"order":1,},
     {"id":{"name":"sp_gnome","path":"sprites/sp_gnome/sp_gnome.yy",},"order":0,},
     {"id":{"name":"d_text2","path":"objects/d_text2/d_text2.yy",},"order":8,},
+    {"id":{"name":"oasdas","path":"objects/oasdas/oasdas.yy",},"order":20,},
     {"id":{"name":"t_forest3","path":"tilesets/t_forest3/t_forest3.yy",},"order":2,},
     {"id":{"name":"d_text14","path":"objects/d_text14/d_text14.yy",},"order":21,},
     {"id":{"name":"o_lever","path":"objects/o_lever/o_lever.yy",},"order":1,},
