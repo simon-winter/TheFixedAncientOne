@@ -12,7 +12,7 @@ if (phase == 1 and vision){ //Running to the gnome
 	timer_atk++;
 	if (timer_atk > timer_atk_max) phase = 0;
 }
-if (phase == 2 and vision){ //Running away from the giant
+if (phase == 2 and vision){ //Running to the giant
 	dir = point_direction(x,y,o_giant.x,o_giant.y);
 	direction = dir;
 	speed = 1;

@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.75,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "m_theme.mp3",
-  "duration": 52.485,
+  "soundFile": "snd_g3.mp3",
+  "duration": 5.934796,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "m_theme",
+  "name": "snd_g3",
   "tags": [],
   "resourceType": "GMSound",
 }
