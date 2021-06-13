@@ -10,3 +10,6 @@ shootCooldownMaxDeviation = 500
 
 //don't edit
 crtCoolDown = -1;
+lookDir = 0;
+
+image_speed = 0;

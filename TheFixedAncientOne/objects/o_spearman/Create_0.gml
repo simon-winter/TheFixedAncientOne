@@ -7,4 +7,8 @@ timer_atk_max = 180;
 
 vision = false;
 
+
 lastMovedDirection = 0;
+
+hitTimerMax = 1;
+hitTimer = hitTimerMax * room_speed;
