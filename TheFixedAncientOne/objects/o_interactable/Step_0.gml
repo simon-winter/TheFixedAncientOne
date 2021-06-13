@@ -1,9 +1,20 @@
 
-activated =	collision_circle(x,y, triggerRadius, triggeredBy, false, false) != noone
+var crtlyTriggered = collision_circle(x,y, triggerRadius, triggeredBy, false, false) != noone
+
+if(crtlyTriggered){
+	if(freshlyEntered){
+		freshlyEntered = false;
+		activated = !activated;		
+	}
+}
+else{
+	freshlyEntered = true	
+}
 	
 // bool == 0 | 1 
 image_index = activated
 
-with(targetToTrigger){		
-	setTrigger(other.id, other.activated)
+
+with(targetToTrigger){
+	setTrigger(other.id, other.activated)	
 }

@@ -25,5 +25,7 @@ switch (triggerType){
 }
 
 
-targetToTrigger.triggered = triggered
+with(targetToTrigger){
+	setTrigger(other, other.triggered)
+}
 
