@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_mainMenue",
-    "path": "sprites/spr_mainMenue/spr_mainMenue.yy",
+    "name": "spr_mainMenue_2",
+    "path": "sprites/spr_mainMenue_2/spr_mainMenue_2.yy",
   },
   "solid": false,
   "visible": true,
