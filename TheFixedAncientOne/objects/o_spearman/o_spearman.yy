@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_spearman",
+    "path": "sprites/spr_spearman/spr_spearman.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

@@ -12,7 +12,7 @@ if (sendBack && partner != noone){
 		return;
 	}
 	
-	var perc = dist / pullInitDist	
+	var perc = clamp(dist / smoothingDistance, 0, 1)	
 
 	var curSpeed = ease_out_cubic(perc, 0, pullMaxSpeed, 1)
 	
@@ -20,6 +20,9 @@ if (sendBack && partner != noone){
 	var angle = point_direction(x, y, partner.x, partner.y)
 	x += lengthdir_x(curSpeed, angle);
 	y += lengthdir_y(curSpeed, angle);		
+	
+	var trail = instance_create_layer(x,y,"Instances",o_swooshTrail)
+	trail.image_angle = angle
 }
 
 if(playCantSenBackAnim){

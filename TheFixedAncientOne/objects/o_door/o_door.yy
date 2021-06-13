@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_notWalkable",
-    "path": "objects/o_notWalkable/o_notWalkable.yy",
+    "name": "o_triggerable",
+    "path": "objects/o_triggerable/o_triggerable.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

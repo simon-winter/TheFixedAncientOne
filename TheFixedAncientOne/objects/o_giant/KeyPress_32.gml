@@ -2,7 +2,7 @@
 if(lock || cutSceneLock){return}
 lock = true;
 
-var gnome = instance_create_layer(x,y,"Instances", o_gnome)
+var gnome = instance_create_layer(x,y,"player", o_gnome)
 with(gnome){	
 	
 	addMovement(other.lastMovedDirection, 1)	
