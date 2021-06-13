@@ -15,6 +15,7 @@ maxSpeedForIdleAnim = 0.1;
 hsp = 0;
 vsp = 0;
 lastMovedDirection = 0;
+menueOpen = false;
 
 function addMovement(dir, magnitude){
 	if(magnitude){		
