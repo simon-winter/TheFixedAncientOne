@@ -91,6 +91,7 @@
     {"id":{"name":"d_text6","path":"objects/d_text6/d_text6.yy",},"order":13,},
     {"id":{"name":"o_archer","path":"objects/o_archer/o_archer.yy",},"order":0,},
     {"id":{"name":"spr_giant_walk_up","path":"sprites/spr_giant_walk_up/spr_giant_walk_up.yy",},"order":2,},
+    {"id":{"name":"Sprite54","path":"sprites/Sprite54/Sprite54.yy",},"order":23,},
     {"id":{"name":"o_swooshTrail","path":"objects/o_swooshTrail/o_swooshTrail.yy",},"order":12,},
     {"id":{"name":"o_door","path":"objects/o_door/o_door.yy",},"order":0,},
     {"id":{"name":"Boss_Battle","path":"sounds/Boss_Battle/Boss_Battle.yy",},"order":19,},
