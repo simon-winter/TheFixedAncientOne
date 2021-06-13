@@ -45,16 +45,14 @@
     {"id":{"name":"Cave_Level","path":"sounds/Cave_Level/Cave_Level.yy",},"order":17,},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":3,},
     {"id":{"name":"spr_gnome_walk_right","path":"sprites/spr_gnome_walk_right/spr_gnome_walk_right.yy",},"order":7,},
-
     {"id":{"name":"spr_spearmanU","path":"sprites/spr_spearmanU/spr_spearmanU.yy",},"order":1,},
-
     {"id":{"name":"GiantTree","path":"sounds/GiantTree/GiantTree.yy",},"order":0,},
-
     {"id":{"name":"Easing_and_Tweening","path":"extensions/Easing_and_Tweening/Easing_and_Tweening.yy",},"order":0,},
     {"id":{"name":"o_pas","path":"objects/o_pas/o_pas.yy",},"order":6,},
     {"id":{"name":"spr_giant_walk_side","path":"sprites/spr_giant_walk_side/spr_giant_walk_side.yy",},"order":4,},
     {"id":{"name":"GnomeTree","path":"sounds/GnomeTree/GnomeTree.yy",},"order":1,},
     {"id":{"name":"snd_throwingTheGnome","path":"sounds/snd_throwingTheGnome/snd_throwingTheGnome.yy",},"order":4,},
+    {"id":{"name":"o_object","path":"objects/o_object/o_object.yy",},"order":19,},
     {"id":{"name":"spr_tileset4","path":"sprites/spr_tileset4/spr_tileset4.yy",},"order":3,},
     {"id":{"name":"spr_gnome_roll","path":"sprites/spr_gnome_roll/spr_gnome_roll.yy",},"order":4,},
     {"id":{"name":"d_text","path":"objects/d_text/d_text.yy",},"order":3,},
@@ -71,6 +69,7 @@
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},"order":3,},
     {"id":{"name":"snd_smokePuff","path":"sounds/snd_smokePuff/snd_smokePuff.yy",},"order":1,},
     {"id":{"name":"ease_inout_sine","path":"scripts/ease_inout_sine/ease_inout_sine.yy",},"order":19,},
+    {"id":{"name":"o_wall3","path":"objects/o_wall3/o_wall3.yy",},"order":4,},
     {"id":{"name":"spr_spearmanL","path":"sprites/spr_spearmanL/spr_spearmanL.yy",},"order":3,},
     {"id":{"name":"string_wrap","path":"scripts/string_wrap/string_wrap.yy",},"order":4,},
     {"id":{"name":"spr_together_idle","path":"sprites/spr_together_idle/spr_together_idle.yy",},"order":0,},
@@ -248,12 +247,9 @@
     {"folderPath":"folders/Objects/Enemies.yy","order":10,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Giant.yy","order":20,"resourceVersion":"1.0","name":"Giant","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/GiantAndGnome.yy","order":21,"resourceVersion":"1.0","name":"GiantAndGnome","tags":[],"resourceType":"GMFolder",},
-
     {"folderPath":"folders/Sprites/Spman.yy","order":22,"resourceVersion":"1.0","name":"Spman","tags":[],"resourceType":"GMFolder",},
-
     {"folderPath":"folders/Sounds/SFX.yy","order":20,"resourceVersion":"1.0","name":"SFX","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds/Finding the tree.yy","order":21,"resourceVersion":"1.0","name":"Finding the tree","tags":[],"resourceType":"GMFolder",},
-
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
