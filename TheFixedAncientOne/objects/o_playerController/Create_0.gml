@@ -7,6 +7,10 @@ maxWalkSpeed = 3;
 acceleration = 1;
 dragFactor = 0.3;
 
+// animation
+image_speed = 1;
+maxSpeedForIdleAnim = 0.1;
+
 // don't edit
 hsp = 0;
 vsp = 0;
