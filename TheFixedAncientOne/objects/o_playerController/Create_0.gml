@@ -11,6 +11,7 @@ dragFactor = 0.3;
 hsp = 0;
 vsp = 0;
 lastMovedDirection = 0;
+menueOpen = false;
 
 function addMovement(dir, magnitude){
 	if(magnitude){		
