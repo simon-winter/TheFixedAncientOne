@@ -6,7 +6,7 @@ if (phase == 0){ //idle
 	timer_atk = 0;
 }
 if (phase == 1 and vision){ //Running to the gnome
-	dir = point_direction(x,y,o_gnome.x,o_gnome.y);
+	if (instance_exists(o_gnome)) dir = point_direction(x,y,o_gnome.x,o_gnome.y);
 	direction = dir;
 	speed = 1;
 	timer_atk++;
