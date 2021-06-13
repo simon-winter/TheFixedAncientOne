@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_gnome_roll",
+    "path": "sprites/spr_gnome_roll/spr_gnome_roll.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "o_playerController",
