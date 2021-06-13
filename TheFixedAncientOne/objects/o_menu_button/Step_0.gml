@@ -1,9 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 if (!instance_exists(o_fade)){
 	keyUp = keyboard_check_pressed(vk_up) or keyboard_check_pressed(ord("W"));
 	keyDown = keyboard_check_pressed(vk_down) or keyboard_check_pressed(ord("S"));
-	keyAction = keyboard_check_pressed(vk_enter);
+	keyAction = keyboard_check_pressed(vk_enter) || keyboard_check_pressed(vk_space);
 }
 
 if (keyUp or keyDown){
