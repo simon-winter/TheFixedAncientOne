@@ -29,7 +29,7 @@ draw_set_colour(c_black);
 if (!choice_dialogue){
 	//Draw Text
 	if (counter < str_len) {
-		counter += 0.3;
+		counter += 0.2;
 	}
 	var substr = string_copy(text_wrapped,1,counter);
 
