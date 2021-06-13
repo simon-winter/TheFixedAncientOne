@@ -22,6 +22,9 @@ if (sendBack && partner != noone){
 	y += lengthdir_y(curSpeed, angle);		
 }
 
+if(playCantSenBackAnim){
+	event_user(0)	
+}
 #endregion
 
 	
