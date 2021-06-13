@@ -2,6 +2,7 @@ event_inherited()
 
 charHealth = 1;
 walksp = 2;
+maxSeperationDistance = 500;
 
 // pulling
 pullMaxDistance = 350;
