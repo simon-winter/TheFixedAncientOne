@@ -1,6 +1,7 @@
 event_inherited()
 
-walksp = 3;
+charHealth = 1;
+walksp = 2;
 
 // pulling
 reachedDistance = 5;

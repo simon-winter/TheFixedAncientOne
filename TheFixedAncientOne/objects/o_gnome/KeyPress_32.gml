@@ -1,11 +1,10 @@
 /// @description Return to Giant
-if(lock){return}
-lock = true;
+if(lock || cutSceneLock){return}
 
 if(scr_canSeePartner(self, partner)){
-	sendBack = true;		
+	lock = true;
+	sendBack = true;
 	pullInitDist = point_distance(x, y, partner.x, partner.y)
-	
-	o_camera.target = partner	
+
+	o_camera.target = partner
 }
-	

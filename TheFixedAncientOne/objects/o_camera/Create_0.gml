@@ -1,8 +1,9 @@
-slowingCameraRadius = 500
-deadZoneRadius = 10
+slowingCameraRadius = 50;
 
-maxCameraSpeed = 10
-minCameraSpeed = 0.0001
+deadZoneRadius = 0.5;
+
+maxCameraSpeed = 10;
+minCameraSpeed = 0.0001;
 
 // don't edit
-target = o_giant
+target = o_giant;

@@ -1,6 +1,7 @@
 event_inherited()
 
-walksp = 2;
+charHealth = 5;
+walksp = 1;
 
 // don't edit
 hsp = 0;
