@@ -1,7 +1,7 @@
 portrait_index = -1;
 name = "System";
 text = [
-	"The giant was afraid of humans, he decided to pull up the bridge."
+	"The giant pull up the bridge and destroyed the lever."
 ];
 speakers = [id];
 next_line = [0];

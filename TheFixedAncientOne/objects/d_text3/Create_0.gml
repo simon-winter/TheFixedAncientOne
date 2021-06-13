@@ -1,7 +1,7 @@
 portrait_index = -1;
 name = "System";
 text = [
-	"I’m afraid the rest might be this bad or worse."
+	"I'm afraid the rest might be this bad or worse."
 ];
 speakers = [id];
 next_line = [0];
