@@ -1,5 +1,5 @@
-slowingCameraRadius = 500;
-deadZoneRadius = 10;
+slowingCameraRadius = 10;
+deadZoneRadius = 0.1;
 
 maxCameraSpeed = 10;
 minCameraSpeed = 0.0001;
