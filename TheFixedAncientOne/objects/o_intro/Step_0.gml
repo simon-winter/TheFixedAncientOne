@@ -3,3 +3,5 @@
 timer++;
 
 if (timer > 600) room_goto_next();
+
+if (timer > 90 and timer < 120 and !audio_is_playing(snd_introV)) audio_play_sound(snd_introV,1,false);
