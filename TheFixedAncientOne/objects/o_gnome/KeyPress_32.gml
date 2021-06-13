@@ -8,3 +8,6 @@ if(scr_canSeePartner(self, partner)){
 
 	o_camera.target = partner
 }
+else{
+	playCantSenBackAnim = true
+}
