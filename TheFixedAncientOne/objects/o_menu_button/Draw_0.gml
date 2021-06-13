@@ -4,8 +4,11 @@ draw_self();
 //draw_set_font();
 draw_set_halign(fa_middle); 
 draw_set_valign(fa_middle);
-draw_text(88,128,"START");
-draw_text(88,216,"EXIT");
+draw_text(x, y, instText);
 
-if (select == 0) draw_sprite(spr_menu_buttonS, 0, 88, 128);
-else draw_sprite(spr_menu_buttonS, 0, 88, 216);
+var color = draw_get_color();
+draw_set_color(c_lime);
+if (select == instSelectNr) draw_rectangle(x-sprite_width/2,y-sprite_height/2,
+	x+sprite_width/2, y+sprite_height/2, true);
+
+draw_set_color(color)
