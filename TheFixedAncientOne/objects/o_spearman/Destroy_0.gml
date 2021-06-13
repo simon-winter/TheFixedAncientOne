@@ -3,4 +3,4 @@
 
 
 instance_create_layer(x,y,"top", o_smokePuff)
-audio_play_sound(snd_smokePuff)
+audio_play_sound(snd_smokePuff,1,false)
