@@ -4,7 +4,8 @@ var crtlyTriggered = collision_circle(x,y, triggerRadius, triggeredBy, false, fa
 if(crtlyTriggered){
 	if(freshlyEntered){
 		freshlyEntered = false;
-		activated = !activated;		
+		activated = !activated;	
+		audio_play_sound(snd_button,1,false);
 	}
 }
 else{

@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.66,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "m_forest.mp3",
-  "duration": 177.271942,
+  "soundFile": "GiantTree.wav",
+  "duration": 8.344887,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Finding the tree",
+    "path": "folders/Sounds/Finding the tree.yy",
   },
   "resourceVersion": "1.0",
-  "name": "m_forest",
+  "name": "GiantTree",
   "tags": [],
   "resourceType": "GMSound",
 }

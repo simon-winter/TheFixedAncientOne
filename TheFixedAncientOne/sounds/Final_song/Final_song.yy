@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.66,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "m_forest.mp3",
-  "duration": 177.271942,
+  "soundFile": "Final_song.mp3",
+  "duration": 73.0433655,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "m_forest",
+  "name": "Final_song",
   "tags": [],
   "resourceType": "GMSound",
 }
