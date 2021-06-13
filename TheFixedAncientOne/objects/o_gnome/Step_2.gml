@@ -5,8 +5,7 @@ if (sendBack && partner != noone){
 	lock = true;
 	
 	var dist = point_distance(x, y, partner.x, partner.y)
-	if(dist < reachedDistance){
-		sendBack = false;
+	if(dist < reachedDistance){		
 		partner.lock = false
 		instance_destroy(self)
 		return;
