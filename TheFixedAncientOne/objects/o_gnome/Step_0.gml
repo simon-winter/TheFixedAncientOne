@@ -2,8 +2,8 @@
 // Inherit the parent event
 event_inherited();
 
-var sepDist = point_distance(x,y,o_giant.x, o_giant.y);
-var perc = clamp(sepDist / maxSeperationDistance,0 ,1);
+var seperDist = point_distance(x,y,o_giant.x, o_giant.y);
+var perc = clamp(seperDist / maxSeperationDistance,0 ,1);
 var mag = ease_in_cubic(perc,0,2,1)
 addMovement(point_direction(x,y,o_giant.x, o_giant.y), mag)
 
