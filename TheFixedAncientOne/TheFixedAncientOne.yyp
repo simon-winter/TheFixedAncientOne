@@ -202,11 +202,8 @@
     {"id":{"name":"spr_cloudPoof","path":"sprites/spr_cloudPoof/spr_cloudPoof.yy",},"order":19,},
     {"id":{"name":"t_forest4","path":"tilesets/t_forest4/t_forest4.yy",},"order":3,},
     {"id":{"name":"ease_out_back","path":"scripts/ease_out_back/ease_out_back.yy",},"order":21,},
-
     {"id":{"name":"spr_spearmanR","path":"sprites/spr_spearmanR/spr_spearmanR.yy",},"order":2,},
-
     {"id":{"name":"archerdown","path":"sprites/archerdown/archerdown.yy",},"order":0,},
-
     {"id":{"name":"snd_g2","path":"sounds/snd_g2/snd_g2.yy",},"order":4,},
     {"id":{"name":"spr_tileset5","path":"sprites/spr_tileset5/spr_tileset5.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
