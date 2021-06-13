@@ -1,6 +1,8 @@
 // starting control condition
 lock = false;
+cutSceneLock = false;
 
+charHealth = 5;
 maxWalkSpeed = 3;
 acceleration = 1;
 dragFactor = 0.3;

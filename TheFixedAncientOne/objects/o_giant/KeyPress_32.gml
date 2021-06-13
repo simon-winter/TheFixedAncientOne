@@ -1,5 +1,5 @@
 /// @description SpawnGnome
-if(lock){return}
+if(lock || cutSceneLock){return}
 lock = true;
 
 var gnome = instance_create_layer(x,y,"player", o_gnome)
