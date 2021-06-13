@@ -6,6 +6,7 @@ t_scene_info = [
 	[cs_instance_destroy, d_text6],
 	[cs_instance_create, 1900, 0, "gui", o_fade2],
 	[cs_instance_destroy, o_fade3],
+	[cs_instance_destroy, o_lever],
 	[cs_wait, 2],
 	[cs_instance_create, 0, 0, "gui", d_text7],
 	[cs_wait, 1],

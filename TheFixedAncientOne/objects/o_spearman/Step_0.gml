@@ -52,3 +52,7 @@ else if(collision_line(x,y,target.x,target.y,o_wall,0,1) != noone){
 else vision = true;
 
 
+if (dir <= 45 or dir >= 315) sprite_index = spr_spearmanR;
+else if (dir < 315 and dir > 225) sprite_index = spr_spearmanD;
+else if (dir <= 225 and dir > 135) sprite_index = spr_spearmanL;
+else sprite_index = spr_spearmanU;
