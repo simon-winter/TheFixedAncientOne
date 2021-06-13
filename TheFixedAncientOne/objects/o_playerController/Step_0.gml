@@ -18,3 +18,7 @@ addMovement(inputDirection, inputMagnitude)
 
 #endregion
 
+if(charHealth <= 0){
+	instance_destroy(self)	
+}
+
