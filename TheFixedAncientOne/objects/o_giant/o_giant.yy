@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_giant_walk_down",
+    "path": "sprites/spr_giant_walk_down/spr_giant_walk_down.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "o_playerController",
