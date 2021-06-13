@@ -13,9 +13,6 @@ pullMaxSpeed = 10;
 partner = o_giant;
 
 // animation
-image_speed = 1;
-maxSpeedForIdleAnim = 0.1;
-
 cantSendBackAniamtionTimer = 200;
 
 // don't edit
