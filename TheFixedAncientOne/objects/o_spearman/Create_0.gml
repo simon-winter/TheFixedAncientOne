@@ -6,3 +6,6 @@ timer_atk = 0;
 timer_atk_max = 180;
 
 vision = false;
+
+hitTimerMax = 1;
+hitTimer = hitTimerMax * room_speed;
