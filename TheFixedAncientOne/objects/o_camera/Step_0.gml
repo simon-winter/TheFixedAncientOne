@@ -1,4 +1,4 @@
-
+if(!instance_exists(target)){return;}
 // distance clamped to positive values
 var dist = clamp(point_distance(x, y, target.x, target.y) - deadZoneRadius, 0, slowingCameraRadius)
 var perc = clamp(dist / slowingCameraRadius, 0, 1)
