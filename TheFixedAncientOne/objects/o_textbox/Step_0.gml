@@ -7,7 +7,7 @@ keyAction = keyboard_check_pressed(vk_enter);
 
 if (keyAction){
 	
-	if (!choice_dialogue and counter < str_len) counter = str_len;
+	if (!choice_dialogue and counter < str_len) keyAction = false; //counter = str_len;
 	else if (page < array_length_1d(text) - 1){
 		var line = next_line[page];
 		if (choice_dialogue){

@@ -29,10 +29,10 @@ namebox_y = 150;
 //x_buffer = 24;
 //y_buffer = 8;
 text_x = 112;
-text_y = 193;
+text_y = 190;
 name_text_x = 95;
 name_text_y = 150;
-text_max_width = 200;
+text_max_width = 215;
 
 text_col = c_black;
 name_text_col = c_black;

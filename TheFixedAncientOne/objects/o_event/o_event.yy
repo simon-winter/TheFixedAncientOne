@@ -6,7 +6,7 @@
   "solid": true,
   "visible": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": {
     "name": "o_destroy_1",
     "path": "objects/o_destroy_1/o_destroy_1.yy",
