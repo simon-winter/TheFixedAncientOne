@@ -12,7 +12,7 @@ if (sendBack && partner != noone){
 		return;
 	}
 	
-	var perc = dist / pullInitDist	
+	var perc = clamp(dist / smoothingDistance, 0, 1)	
 
 	var curSpeed = ease_out_cubic(perc, 0, pullMaxSpeed, 1)
 	

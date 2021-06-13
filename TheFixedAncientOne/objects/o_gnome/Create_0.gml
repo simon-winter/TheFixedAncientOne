@@ -4,7 +4,11 @@ charHealth = 1;
 walksp = 2;
 
 // pulling
+pullMaxDistance = 350;
+smoothingDistance = 100;
 reachedDistance = 5;
+
+
 pullMaxSpeed = 10;
 partner = o_giant;
 
