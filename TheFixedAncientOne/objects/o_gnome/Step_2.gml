@@ -1,7 +1,7 @@
 #region //sendBack
 
 if (sendBack && partner != noone){	
-	
+	sprite_index = spr_gnome_roll;
 	lock = true;
 	
 	var dist = point_distance(x, y, partner.x, partner.y)
@@ -22,6 +22,9 @@ if (sendBack && partner != noone){
 	y += lengthdir_y(curSpeed, angle);		
 }
 
+if(playCantSenBackAnim){
+	event_user(0)	
+}
 #endregion
 
 	

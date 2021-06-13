@@ -17,8 +17,7 @@ if(crtCoolDown < 0){
 			var target_x = target.x + rndDeviationX - (rndDeviationX/2)
 			var target_y = target.y + rndDeviationY - (rndDeviationY/2)
 
-			arrow.direction = point_direction(x, y, target_x, target_y)		
-			show_debug_message(target_x)
+			arrow.direction = point_direction(x, y, target_x, target_y)
 		}
 	}
 }else{
