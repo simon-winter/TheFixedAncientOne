@@ -1,9 +1,6 @@
 #region //sendBack
 
 if (sendBack && partner != noone){	
-	sprite_index = spr_gnome_roll;
-	lock = true;
-	
 	var dist = point_distance(x, y, partner.x, partner.y)
 	if(dist < reachedDistance){		
 		partner.lock = false

@@ -1,5 +1,7 @@
 event_inherited();
 
+if(sprite_index == spr_giant_pull) {return;}
+
 if(abs(hsp) + abs(vsp) < maxSpeedForIdleAnim){
 	if(!lock){
 		sprite_index = spr_together_idle;
